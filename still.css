@@ -1,0 +1,17 @@
+h1{
+    border-style: solid;
+    width: 200px;
+    height: 50px;
+    padding:10px;
+    margin:  5px; 
+}
+.kutu1{
+    border-style: none;
+}
+body {
+    background-image:url(kalem2.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
